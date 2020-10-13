@@ -2,6 +2,6 @@
 
 Some APIs for sparse coding of DNN on Caffe framework.
 
-$$
-f
-$$
+```math
+\min_{w} L(w)+\lambda \|w\|_0
+```
